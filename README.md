@@ -15,3 +15,5 @@ Lavar el arroz.
 Agregar el arroz al agua.
 El arroz estará listo. 
 Servir en un plato. 
+
+En este repositorio pude aprender que Github es una app donde podemos guardar nuestros códigos y podemos actualizarlo siempre que queramos. Tuve que ver tutorial de como utilizarla ya que nunca la había utilizado pero me di cuenta que no es tan difícil, además de que esta se puede utilizar en grupo. Me dí cuenta que podemos hacer sugerencias. 
